@@ -836,3 +836,25 @@ const struct Tileset gTileset_PorytilesPrimaryTest =
     .metatileAttributes = gMetatileAttributes_PorytilesPrimaryTest,
     .callback = NULL,
 };
+
+const struct Tileset gTileset_TideviewCity =
+{
+    .isCompressed = TRUE,
+    .isSecondary = TRUE,
+    .tiles = gTilesetTiles_TideviewCity,
+    .palettes = gTilesetPalettes_TideviewCity,
+    .metatiles = gMetatiles_TideviewCity,
+    .metatileAttributes = gMetatileAttributes_TideviewCity,
+    .callback = NULL,
+};
+
+const struct Tileset gTileset_Tideview_test =
+{
+    .isCompressed = TRUE,
+    .isSecondary = FALSE,
+    .tiles = gTilesetTiles_Tideview_test,
+    .palettes = gTilesetPalettes_Tideview_test,
+    .metatiles = gMetatiles_Tideview_test,
+    .metatileAttributes = gMetatileAttributes_Tideview_test,
+    .callback = NULL,
+};

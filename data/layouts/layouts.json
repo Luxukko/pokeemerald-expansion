@@ -4420,6 +4420,16 @@
       "secondary_tileset": "gTileset_Petalburg",
       "border_filepath": "data/layouts/PorytilesTestMap/border.bin",
       "blockdata_filepath": "data/layouts/PorytilesTestMap/map.bin"
+    },
+    {
+      "id": "LAYOUT_TIDEVIEW_CITY",
+      "name": "TideviewCity_Layout",
+      "width": 70,
+      "height": 35,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_TideviewCity",
+      "border_filepath": "data/layouts/TideviewCity/border.bin",
+      "blockdata_filepath": "data/layouts/TideviewCity/map.bin"
     }
   ]
 }

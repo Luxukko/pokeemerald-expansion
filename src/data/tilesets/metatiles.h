@@ -210,3 +210,9 @@ const u16 gMetatileAttributes_UnionRoom[] = INCBIN_U16("data/tilesets/secondary/
 
 const u16 gMetatiles_PorytilesPrimaryTest[] = INCBIN_U16("data/tilesets/primary/porytiles_primary_test/metatiles.bin");
 const u16 gMetatileAttributes_PorytilesPrimaryTest[] = INCBIN_U16("data/tilesets/primary/porytiles_primary_test/metatile_attributes.bin");
+
+const u16 gMetatiles_TideviewCity[] = INCBIN_U16("data/tilesets/secondary/tideview_city/metatiles.bin");
+const u16 gMetatileAttributes_TideviewCity[] = INCBIN_U16("data/tilesets/secondary/tideview_city/metatile_attributes.bin");
+
+const u16 gMetatiles_Tideview_test[] = INCBIN_U16("data/tilesets/primary/tideview_test/metatiles.bin");
+const u16 gMetatileAttributes_Tideview_test[] = INCBIN_U16("data/tilesets/primary/tideview_test/metatile_attributes.bin");
