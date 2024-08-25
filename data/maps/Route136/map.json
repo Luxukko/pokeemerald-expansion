@@ -1,9 +1,9 @@
 {
-  "id": "MAP_ROUTE122",
-  "name": "Route122",
-  "layout": "LAYOUT_ROUTE122",
-  "music": "MUS_ROUTE122",
-  "region_map_section": "MAPSEC_ROUTE_122",
+  "id": "MAP_ROUTE136",
+  "name": "Route136",
+  "layout": "LAYOUT_ROUTE136",
+  "music": "MUS_RG_ROUTE3",
+  "region_map_section": "MAPSEC_ROUTE_136",
   "requires_flash": false,
   "weather": "WEATHER_SUNNY",
   "map_type": "MAP_TYPE_ROUTE",
@@ -14,27 +14,26 @@
   "battle_scene": "MAP_BATTLE_SCENE_NORMAL",
   "connections": [
     {
-      "map": "MAP_ROUTE121",
-      "offset": -20,
+      "map": "MAP_TIDEVIEW_CITY",
+      "offset": -4,
+      "direction": "down"
+    },
+    {
+      "map": "MAP_ROUTE123",
+      "offset": -84,
       "direction": "up"
     },
     {
       "map": "MAP_ROUTE123",
-      "offset": -100,
-      "direction": "down"
+      "offset": -85,
+      "direction": "up"
     }
   ],
   "object_events": [
 
   ],
   "warp_events": [
-    {
-      "x": 22,
-      "y": 29,
-      "elevation": 0,
-      "dest_map": "MAP_MT_PYRE_1F",
-      "dest_warp_id": "0"
-    }
+
   ],
   "coord_events": [
 

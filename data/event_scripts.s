@@ -1078,3 +1078,5 @@ EventScript_VsSeekerChargingDone::
 	.include "data/maps/PorytilesTestMap/scripts.inc"
 
 	.include "data/maps/TideviewCity/scripts.inc"
+
+	.include "data/maps/Route136/scripts.inc"

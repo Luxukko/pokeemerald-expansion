@@ -4430,6 +4430,16 @@
       "secondary_tileset": "gTileset_TideviewCity",
       "border_filepath": "data/layouts/TideviewCity/border.bin",
       "blockdata_filepath": "data/layouts/TideviewCity/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE136",
+      "name": "Route136_Layout",
+      "width": 45,
+      "height": 60,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_TideviewCity",
+      "border_filepath": "data/layouts/Route136/border.bin",
+      "blockdata_filepath": "data/layouts/Route136/map.bin"
     }
   ]
 }

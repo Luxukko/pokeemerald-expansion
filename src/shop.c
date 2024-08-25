@@ -136,7 +136,6 @@ static void BuyMenuCollectObjectEventData(void);
 static void BuyMenuDrawObjectEvents(void);
 static void BuyMenuDrawMapBg(void);
 static bool8 BuyMenuCheckForOverlapWithMenuBg(int, int);
-static bool8 IsMetatileLayerEmpty(const u16 *src)
 static void BuyMenuDrawMapMetatile(s16, s16, const u16 *, u8);
 static void BuyMenuDrawMapMetatileLayer(u16 *dest, s16 offset1, s16 offset2, const u16 *src);
 static bool8 BuyMenuCheckIfObjectEventOverlapsMenuBg(s16 *);
