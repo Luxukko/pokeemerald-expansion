@@ -1080,3 +1080,5 @@ EventScript_VsSeekerChargingDone::
 	.include "data/maps/TideviewCity/scripts.inc"
 
 	.include "data/maps/Route136/scripts.inc"
+
+	.include "data/maps/SSMoanaMain/scripts.inc"

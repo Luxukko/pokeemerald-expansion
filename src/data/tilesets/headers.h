@@ -858,3 +858,14 @@ const struct Tileset gTileset_Tideview_test =
     .metatileAttributes = gMetatileAttributes_Tideview_test,
     .callback = NULL,
 };
+
+const struct Tileset gTileset_SSMoana =
+{
+    .isCompressed = TRUE,
+    .isSecondary = TRUE,
+    .tiles = gTilesetTiles_SSMoana,
+    .palettes = gTilesetPalettes_SSMoana,
+    .metatiles = gMetatiles_SSMoana,
+    .metatileAttributes = gMetatileAttributes_SSMoana,
+    .callback = NULL,
+};

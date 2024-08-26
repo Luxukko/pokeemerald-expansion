@@ -216,3 +216,6 @@ const u16 gMetatileAttributes_TideviewCity[] = INCBIN_U16("data/tilesets/seconda
 
 const u16 gMetatiles_Tideview_test[] = INCBIN_U16("data/tilesets/primary/tideview_test/metatiles.bin");
 const u16 gMetatileAttributes_Tideview_test[] = INCBIN_U16("data/tilesets/primary/tideview_test/metatile_attributes.bin");
+
+const u16 gMetatiles_SSMoana[] = INCBIN_U16("data/tilesets/secondary/ssmoana/metatiles.bin");
+const u16 gMetatileAttributes_SSMoana[] = INCBIN_U16("data/tilesets/secondary/ssmoana/metatile_attributes.bin");

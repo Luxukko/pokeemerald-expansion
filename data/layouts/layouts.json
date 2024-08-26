@@ -4440,6 +4440,16 @@
       "secondary_tileset": "gTileset_TideviewCity",
       "border_filepath": "data/layouts/Route136/border.bin",
       "blockdata_filepath": "data/layouts/Route136/map.bin"
+    },
+    {
+      "id": "LAYOUT_SSMOANA_MAIN",
+      "name": "SSMoanaMain_Layout",
+      "width": 80,
+      "height": 80,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_SSMoana",
+      "border_filepath": "data/layouts/SSMoanaMain/border.bin",
+      "blockdata_filepath": "data/layouts/SSMoanaMain/map.bin"
     }
   ]
 }
