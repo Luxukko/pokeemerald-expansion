@@ -496,7 +496,11 @@
     "BattlePyramidSquare15",
     "BattlePyramidSquare16",
     "UnionRoom",
-    "SSMoanaMain"
+    "SSMoanaMain",
+    "SSMoanaDeck",
+    "SSMoanaDeck1",
+    "SSMoanaLowerDeck",
+    "SSMoanaRooms"
   ],
   "gMapGroup_SpecialArea": [
     "SafariZone_Northwest",

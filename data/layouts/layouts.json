@@ -4444,12 +4444,52 @@
     {
       "id": "LAYOUT_SSMOANA_MAIN",
       "name": "SSMoanaMain_Layout",
-      "width": 80,
-      "height": 80,
+      "width": 60,
+      "height": 30,
       "primary_tileset": "gTileset_General",
       "secondary_tileset": "gTileset_SSMoana",
       "border_filepath": "data/layouts/SSMoanaMain/border.bin",
       "blockdata_filepath": "data/layouts/SSMoanaMain/map.bin"
+    },
+    {
+      "id": "LAYOUT_SSMOANA_DECK",
+      "name": "SSMoanaDeck_Layout",
+      "width": 40,
+      "height": 30,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_SSMoana",
+      "border_filepath": "data/layouts/SSMoanaDeck/border.bin",
+      "blockdata_filepath": "data/layouts/SSMoanaDeck/map.bin"
+    },
+    {
+      "id": "LAYOUT_SSMOANA_DECK1",
+      "name": "SSMoanaDeck1_Layout",
+      "width": 50,
+      "height": 50,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_SSMoana",
+      "border_filepath": "data/layouts/SSMoanaDeck1/border.bin",
+      "blockdata_filepath": "data/layouts/SSMoanaDeck1/map.bin"
+    },
+    {
+      "id": "LAYOUT_SSMOANA_LOWER_DECK",
+      "name": "SSMoanaLowerDeck_Layout",
+      "width": 30,
+      "height": 19,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_SSMoana",
+      "border_filepath": "data/layouts/SSMoanaLowerDeck/border.bin",
+      "blockdata_filepath": "data/layouts/SSMoanaLowerDeck/map.bin"
+    },
+    {
+      "id": "LAYOUT_SSMOANA_ROOMS",
+      "name": "SSMoanaRooms_Layout",
+      "width": 80,
+      "height": 80,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_SSMoana",
+      "border_filepath": "data/layouts/SSMoanaRooms/border.bin",
+      "blockdata_filepath": "data/layouts/SSMoanaRooms/map.bin"
     }
   ]
 }

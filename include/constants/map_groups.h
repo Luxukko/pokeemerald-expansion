@@ -467,6 +467,10 @@
 #define MAP_BATTLE_PYRAMID_SQUARE16  (59 | (25 << 8))
 #define MAP_UNION_ROOM               (60 | (25 << 8))
 #define MAP_SSMOANA_MAIN             (61 | (25 << 8))
+#define MAP_SSMOANA_DECK             (62 | (25 << 8))
+#define MAP_SSMOANA_DECK1            (63 | (25 << 8))
+#define MAP_SSMOANA_LOWER_DECK       (64 | (25 << 8))
+#define MAP_SSMOANA_ROOMS            (65 | (25 << 8))
 
 // gMapGroup_SpecialArea
 #define MAP_SAFARI_ZONE_NORTHWEST                           (0 | (26 << 8))

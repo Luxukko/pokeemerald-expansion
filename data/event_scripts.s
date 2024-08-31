@@ -1082,3 +1082,11 @@ EventScript_VsSeekerChargingDone::
 	.include "data/maps/Route136/scripts.inc"
 
 	.include "data/maps/SSMoanaMain/scripts.inc"
+
+	.include "data/maps/SSMoanaDeck/scripts.inc"
+
+	.include "data/maps/SSMoanaDeck1/scripts.inc"
+
+	.include "data/maps/SSMoanaLowerDeck/scripts.inc"
+
+	.include "data/maps/SSMoanaRooms/scripts.inc"
